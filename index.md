@@ -33,7 +33,7 @@ sections:
       - title: RSVP
         content: >-
           Allow your guests to skip the stamp and RSVP online. To help you stay
-          organized, we'll save all of your RSVPs to a Google Sheet that that
+          organized, we'll save all of your RSVPs to a Google Sheet that
           stays updated with all the important information your guests provide.
         align: left
         image: famous-spider.png

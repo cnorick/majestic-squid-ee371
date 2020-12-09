@@ -1,12 +1,12 @@
-title: Stackbit Starter Theme
+title: Weddings by Sarah
 baseurl: /weddings/landing
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: An ultra customizable generic theme for Stackbit
+description: Let us help you build a website for your big day!
 header:
-  title: Wedding's by Sarah
+  title: Weddings by Sarah
   has_nav: true
   nav_links:
     - label: Contact Us
