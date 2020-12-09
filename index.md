@@ -58,7 +58,7 @@ sections:
         type: feature
   - title: Website Samples
     content: >-
-      ![](/sample1.png)
+      ![](/weddings/landing/sample1.png)
 
       <a href="https://content.nathanorick.com/weddings/sample/">View Live
       Demo</a>
@@ -67,7 +67,7 @@ sections:
       ---
 
 
-      ![](/sample2.png)
+      ![](/weddings/landing/sample2.png)
 
       <a href="https://content.nathanorick.com/wedding/index.html">View Live Demo</a>
 
@@ -75,7 +75,7 @@ sections:
       ---
 
 
-      ![](/sample3.png)
+      ![](/weddings/landing/sample3.png)
 
       <a href="http://wedding.nathanorick.com">View Live Demo</a>
     type: content_section
@@ -86,7 +86,7 @@ sections:
       your website.
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray

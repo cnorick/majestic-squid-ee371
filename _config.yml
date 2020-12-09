@@ -1,5 +1,5 @@
 title: Stackbit Starter Theme
-baseurl: /
+baseurl: /weddings/landing
 permalink: '/:title/'
 collections:
   posts:
