@@ -69,7 +69,7 @@ sections:
 
       ![](/sample2.png)
 
-      <a href="http://wedding.nathanorick.com/">View Live Demo</a>
+      <a href="https://content.nathanorick.com/wedding/index.html">View Live Demo</a>
 
 
       ---
@@ -77,8 +77,7 @@ sections:
 
       ![](/sample3.png)
 
-      <a href="https://content.nathanorick.com/wedding/index.html">View Live
-      Demo</a>
+      <a href="http://wedding.nathanorick.com">View Live Demo</a>
     type: content_section
   - type: cta_section
     title: Lets Get Started
