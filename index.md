@@ -58,26 +58,39 @@ sections:
         type: feature
   - title: Website Samples
     content: >-
-      ![](/weddings/landing/sample1.png)
+      #### Classic Love Story
 
-      <a href="https://content.nathanorick.com/weddings/sample/">View Live
-      Demo</a>
+      <div class="sample-container">
+        <a href="https://content.nathanorick.com/weddings/sample/">
+          <img src="/weddings/landing/sample1.png" class="sample-image" />
+        </a>
 
-
-      ---
-
-
-      ![](/weddings/landing/sample2.png)
-
-      <a href="https://content.nathanorick.com/wedding/index.html">View Live Demo</a>
+        <button href="https://content.nathanorick.com/weddings/sample/" class="btn btn--secondary">View Live Demo</button>
+      </div>
 
 
-      ---
+
+      #### Modern Whimsy
+
+      <div class="sample-container">
+        <a href="https://content.nathanorick.com/wedding/index.html">
+          <img src="/weddings/landing/sample2.png" class="sample-image" />
+        </a>
+
+        <button href="https://content.nathanorick.com/wedding/index.html" class="btn btn--secondary">View Live Demo</button>
+      </div>
 
 
-      ![](/weddings/landing/sample3.png)
 
-      <a href="http://wedding.nathanorick.com">View Live Demo</a>
+      #### Romantic Garden
+
+      <div class="sample-container">
+        <a href="http://wedding.nathanorick.com">
+          <img src="/weddings/landing/sample3.png" class="sample-image" />
+        </a>
+
+        <button href="http://wedding.nathanorick.com" class="btn btn--secondary">View Live Demo</button>
+      </div>
     type: content_section
   - type: cta_section
     title: Lets Get Started
