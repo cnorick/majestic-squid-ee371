@@ -65,7 +65,7 @@ sections:
           <img src="/weddings/landing/sample1.png" class="sample-image" />
         </a>
 
-        <button href="https://content.nathanorick.com/weddings/sample/" class="btn btn--secondary">View Live Demo</button>
+        <a href="https://content.nathanorick.com/weddings/sample/" class="btn btn--secondary">View Live Demo</a>
       </div>
 
 
@@ -77,7 +77,7 @@ sections:
           <img src="/weddings/landing/sample2.png" class="sample-image" />
         </a>
 
-        <button href="https://content.nathanorick.com/wedding/index.html" class="btn btn--secondary">View Live Demo</button>
+        <a href="https://content.nathanorick.com/wedding/index.html" class="btn btn--secondary">View Live Demo</a>
       </div>
 
 
@@ -89,7 +89,7 @@ sections:
           <img src="/weddings/landing/sample3.png" class="sample-image" />
         </a>
 
-        <button href="http://wedding.nathanorick.com" class="btn btn--secondary">View Live Demo</button>
+        <a href="http://wedding.nathanorick.com" class="btn btn--secondary">View Live Demo</a>
       </div>
     type: content_section
   - type: cta_section
