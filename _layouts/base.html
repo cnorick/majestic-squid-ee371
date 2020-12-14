@@ -8,7 +8,16 @@
         <meta name="description" content="{{ page.excerpt | default: site.description }}"/>
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         <link rel="icon" type="image/png" href="{{'/favicon.png' | relative_url}}"/>
-        
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-X0BJ20T7XR"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-X0BJ20T7XR');
+        </script>
     </head>
     <body>
         
